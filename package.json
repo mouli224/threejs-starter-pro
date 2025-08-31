@@ -1,0 +1,21 @@
+{
+  "name": "threejs-starter-pro",
+  "version": "1.0.0",
+  "description": "A basic Three.js starter project with interactive 3D cubes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview"
+  },
+  "keywords": ["threejs", "3d", "webgl", "frontend"],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
